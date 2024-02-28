@@ -1,5 +1,7 @@
 # ICPDF
 
+Gabriel Souza Santos - ESEG
+
 Projeto de Iniciação Cientifica - Calibração de Espectrômetro
 
 Pendencias:
@@ -12,5 +14,3 @@ Implementação de graficos em relação ao tempo:
 -Energia
 -Resolução
 -Dead-Time
-
-Gabriel Souza Santos - ESEG
