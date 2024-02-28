@@ -1,4 +1,4 @@
-# ICPDF
+# Projeto de Iniciação Cientifica
 
 Gabriel Souza Santos - ESEG
 
